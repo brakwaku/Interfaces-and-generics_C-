@@ -1,0 +1,15 @@
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/IRandom-Interface/bin/Debug/net6.0/IRandom-Interface
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/IRandom-Interface/bin/Debug/net6.0/IRandom-Interface.deps.json
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/IRandom-Interface/bin/Debug/net6.0/IRandom-Interface.runtimeconfig.json
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/IRandom-Interface/bin/Debug/net6.0/IRandom-Interface.dll
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/IRandom-Interface/bin/Debug/net6.0/ref/IRandom-Interface.dll
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/IRandom-Interface/bin/Debug/net6.0/IRandom-Interface.pdb
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/IRandom-Interface/obj/Debug/net6.0/IRandom-Interface.csproj.AssemblyReference.cache
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/IRandom-Interface/obj/Debug/net6.0/IRandom-Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/IRandom-Interface/obj/Debug/net6.0/IRandom-Interface.AssemblyInfoInputs.cache
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/IRandom-Interface/obj/Debug/net6.0/IRandom-Interface.AssemblyInfo.cs
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/IRandom-Interface/obj/Debug/net6.0/IRandom-Interface.csproj.CoreCompileInputs.cache
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/IRandom-Interface/obj/Debug/net6.0/IRandom-Interface.dll
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/IRandom-Interface/obj/Debug/net6.0/ref/IRandom-Interface.dll
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/IRandom-Interface/obj/Debug/net6.0/IRandom-Interface.pdb
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/IRandom-Interface/obj/Debug/net6.0/IRandom-Interface.genruntimeconfig.cache

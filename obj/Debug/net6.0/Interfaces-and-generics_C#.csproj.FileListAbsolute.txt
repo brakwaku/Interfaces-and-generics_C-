@@ -1,0 +1,15 @@
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/bin/Debug/net6.0/Interfaces-and-generics_C#
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/bin/Debug/net6.0/Interfaces-and-generics_C#.deps.json
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/bin/Debug/net6.0/Interfaces-and-generics_C#.runtimeconfig.json
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/bin/Debug/net6.0/Interfaces-and-generics_C#.dll
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/bin/Debug/net6.0/ref/Interfaces-and-generics_C#.dll
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/bin/Debug/net6.0/Interfaces-and-generics_C#.pdb
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/obj/Debug/net6.0/Interfaces-and-generics_C#.csproj.AssemblyReference.cache
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/obj/Debug/net6.0/Interfaces-and-generics_C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/obj/Debug/net6.0/Interfaces-and-generics_C#.AssemblyInfoInputs.cache
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/obj/Debug/net6.0/Interfaces-and-generics_C#.AssemblyInfo.cs
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/obj/Debug/net6.0/Interfaces-and-generics_C#.csproj.CoreCompileInputs.cache
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/obj/Debug/net6.0/Interfaces-and-generics_C#.dll
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/obj/Debug/net6.0/ref/Interfaces-and-generics_C#.dll
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/obj/Debug/net6.0/Interfaces-and-generics_C#.pdb
+/Users/brakwakujr/Desktop/Projects/Interfaces-and-generics_C#/obj/Debug/net6.0/Interfaces-and-generics_C#.genruntimeconfig.cache
